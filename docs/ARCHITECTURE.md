@@ -1,6 +1,6 @@
 # Orbital Viewer — Architecture & Technical Documentation
 
-**Live:** https://geo.fahadbilal.com  ·  **Repo:** https://github.com/bilalmughal1/orbital-viewer
+**Live:** https://geo.fahadbilal.com  ·  **Repo:** https://github.com/fahadbilalsaleem/orbital-viewer
 
 A satellite tasking visualization — a working miniature of the problem space addressed by
 constellation operators' Collection Needs Command & Control (CNC2) and geospatial catalogue
